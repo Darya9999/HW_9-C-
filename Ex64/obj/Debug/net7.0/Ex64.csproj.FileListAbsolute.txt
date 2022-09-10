@@ -1,0 +1,15 @@
+C:\GB\HW_9_C#\Ex64\bin\Debug\net7.0\Ex64.exe
+C:\GB\HW_9_C#\Ex64\bin\Debug\net7.0\Ex64.deps.json
+C:\GB\HW_9_C#\Ex64\bin\Debug\net7.0\Ex64.runtimeconfig.json
+C:\GB\HW_9_C#\Ex64\bin\Debug\net7.0\Ex64.dll
+C:\GB\HW_9_C#\Ex64\bin\Debug\net7.0\Ex64.pdb
+C:\GB\HW_9_C#\Ex64\obj\Debug\net7.0\Ex64.csproj.AssemblyReference.cache
+C:\GB\HW_9_C#\Ex64\obj\Debug\net7.0\Ex64.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\HW_9_C#\Ex64\obj\Debug\net7.0\Ex64.AssemblyInfoInputs.cache
+C:\GB\HW_9_C#\Ex64\obj\Debug\net7.0\Ex64.AssemblyInfo.cs
+C:\GB\HW_9_C#\Ex64\obj\Debug\net7.0\Ex64.csproj.CoreCompileInputs.cache
+C:\GB\HW_9_C#\Ex64\obj\Debug\net7.0\Ex64.dll
+C:\GB\HW_9_C#\Ex64\obj\Debug\net7.0\refint\Ex64.dll
+C:\GB\HW_9_C#\Ex64\obj\Debug\net7.0\Ex64.pdb
+C:\GB\HW_9_C#\Ex64\obj\Debug\net7.0\Ex64.genruntimeconfig.cache
+C:\GB\HW_9_C#\Ex64\obj\Debug\net7.0\ref\Ex64.dll
